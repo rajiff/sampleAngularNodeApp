@@ -1,12 +1,10 @@
 {
- "workflow": "NodeJSMongoAngularE2EEval",
+ "workflow": "AngularIoApp",
  "scores": {
-   "cadetTests": 10,
-   "commanderTests": 20,
-   "cadete2etests": 10,
-   "commandere2etests": 20,
+   "cadete2etests": 30,
+   "commandere2etests": 50,
    "tslint": 10,
-   "eslint": 30
+   "eslint": 10
  },
  "cadetFeedback": {
      "hideScore": true
