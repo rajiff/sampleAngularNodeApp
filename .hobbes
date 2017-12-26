@@ -1,0 +1,14 @@
+{
+ "workflow": "NodeJSMongoAngularE2EEval",
+ "scores": {
+   "cadetTests": 10,
+   "commanderTests": 20,
+   "cadete2etests": 10,
+   "commandere2etests": 20,
+   "tslint": 10,
+   "eslint": 30
+ },
+ "cadetFeedback": {
+     "hideScore": true
+ }
+}
