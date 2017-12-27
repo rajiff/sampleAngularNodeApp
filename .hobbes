@@ -1,5 +1,5 @@
 {
- "workflow": "AngularIoApp",
+ "workflow": "NodeJSMongoAngularE2EEval",
  "scores": {
    "cadete2etests": 30,
    "commandere2etests": 50,
